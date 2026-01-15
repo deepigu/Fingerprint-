@@ -16,55 +16,29 @@ A **Java Swing GUI application** that simulates a **company security system usin
 - **User-Friendly GUI** – No console input needed, fully graphical.
 
 ---
-🛠 Features
 
-Employee Registration
 
-Register multiple employees in one session
+## ⚡ How to Use
 
-Store employee ID, name, and fingerprint template
+- ** Open the project in IntelliJ IDEA or any Java IDE
 
-Input validation and error handling
+- **Compile all files (FingerprintUtil.java, FileDB.java, EmployeeService.java, MainGUI.java)
 
-Employee Authentication
+- **Run MainGUI
 
-Verify employee access using ID + fingerprint
+- **Use buttons to:
 
-Provides ACCESS GRANTED / ACCESS DENIED feedback
+- **Register employees
 
-Employee Management
+- **Authenticate employees
 
-Check total number of employees
+- **Check total employees
 
-List all registered employees
+- **List employees
 
-User-Friendly GUI
+- **Exit the program
 
-Easy-to-use interface with buttons and pop-up dialogs
-
-Eliminates the need for console input
-
-⚡ How to Use
-
-Open the project in IntelliJ IDEA or any Java IDE
-
-Compile all files (FingerprintUtil.java, FileDB.java, EmployeeService.java, MainGUI.java)
-
-Run MainGUI
-
-Use buttons to:
-
-Register employees
-
-Authenticate employees
-
-Check total employees
-
-List employees
-
-Exit the program
-
-📁 File Structure
+#### 📁 File Structure
 FingerprintAccessGUI/
 │
 ├── src/
@@ -75,27 +49,27 @@ FingerprintAccessGUI/
 │
 └── out/ (IDE generated compiled files)
 
-🔧 Technologies Used
+###🔧 Technologies Used
 
-Java – Core programming language
+- **Java – Core programming language
 
-Java Swing – Graphical User Interface
+- **Java Swing – Graphical User Interface
 
-File Handling – Store and retrieve employee data
+- ** File Handling – Store and retrieve employee data
 
-IntelliJ IDEA – Development IDE
+- **IntelliJ IDEA – Development IDE
 
-🚀 Future Enhancements
+####🚀 Future Enhancements
 
-Integrate a real fingerprint scanner using Java SDKs
+- **Integrate a real fingerprint scanner using Java SDKs
 
-Replace text file storage with MySQL or SQLite database
+- **Replace text file storage with MySQL or SQLite database
 
-Add role-based access control and multi-factor authentication
+- **Add role-based access control and multi-factor authentication
 
-Add real-time logging and analytics
+- **Add real-time logging and analytics
 
-Add simulated fingerprint images or buttons for realistic biometric experience
+- **Add simulated fingerprint images or buttons for realistic biometric experience
 ## 💻 How to Run
 
 1. Clone the repository:
