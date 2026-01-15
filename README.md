@@ -8,37 +8,37 @@ A **Java Swing GUI application** that simulates a **company security system usin
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
-- **Register Employees** – Store ID, name, and fingerprint. Register multiple employees in one session.
-- **Authenticate Employees** – Verify access using ID + fingerprint.
-- **Employee Management** – Check total employees and list all registered employees.
-- **User-Friendly GUI** – No console input needed, fully graphical.
+- Register Employees** – Store ID, name, and fingerprint. Register multiple employees in one session.
+- Authenticate Employees** – Verify access using ID + fingerprint.
+- Employee Management** – Check total employees and list all registered employees.
+- User-Friendly GUI** – No console input needed, fully graphical.
 
 ---
 
 
-## ⚡ How to Use
+# ⚡ How to Use
 
-- ** Open the project in IntelliJ IDEA or any Java IDE
+-  Open the project in IntelliJ IDEA or any Java IDE
 
-- **Compile all files (FingerprintUtil.java, FileDB.java, EmployeeService.java, MainGUI.java)
+- Compile all files (FingerprintUtil.java, FileDB.java, EmployeeService.java, MainGUI.java)
 
-- **Run MainGUI
+- Run MainGUI
 
-- **Use buttons to:
+- Use buttons to:
 
-- **Register employees
+- Register employees
 
-- **Authenticate employees
+- Authenticate employees
 
-- **Check total employees
+- Check total employees
 
-- **List employees
+- List employees
 
-- **Exit the program
+- Exit the program
 
-#### 📁 File Structure
+# 📁 File Structure
 FingerprintAccessGUI/
 │
 ├── src/
@@ -49,28 +49,28 @@ FingerprintAccessGUI/
 │
 └── out/ (IDE generated compiled files)
 
-###🔧 Technologies Used
+#🔧 Technologies Used
 
-- **Java – Core programming language
+- Java – Core programming language
 
-- **Java Swing – Graphical User Interface
+- Java Swing – Graphical User Interface
 
-- ** File Handling – Store and retrieve employee data
+-  File Handling – Store and retrieve employee data
 
-- **IntelliJ IDEA – Development IDE
+- IntelliJ IDEA – Development IDE
 
-####🚀 Future Enhancements
+#🚀 Future Enhancements
 
-- **Integrate a real fingerprint scanner using Java SDKs
+- Integrate a real fingerprint scanner using Java SDKs
 
-- **Replace text file storage with MySQL or SQLite database
+- Replace text file storage with MySQL or SQLite database
 
-- **Add role-based access control and multi-factor authentication
+- Add role-based access control and multi-factor authentication
 
-- **Add real-time logging and analytics
+- Add real-time logging and analytics
 
-- **Add simulated fingerprint images or buttons for realistic biometric experience
-## 💻 How to Run
+- Add simulated fingerprint images or buttons for realistic biometric experience
+# 💻 How to Run
 
 1. Clone the repository:
 
