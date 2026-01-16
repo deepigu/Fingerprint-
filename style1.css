@@ -1,8 +1,12 @@
 /* Background & font */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to right, #1e3c72, #2a5298);
-    color: #fff;
+   /* background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: #fff;*/
+    
+    background: #f3f4f6;
+    color: #111827;
+
     text-align: center;
     margin: 0;
     padding: 0;
@@ -11,7 +15,8 @@ body {
 .container {
     max-width: 700px;
     margin: 50px auto;
-    background-color: rgba(0,0,0,0.5);
+   /* background-color: rgba(0,0,0,0.5);*/
+    background: #ffffff;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 0 20px rgba(0,0,0,0.7);
@@ -37,7 +42,8 @@ button {
     border: none;
     border-radius: 10px;
     cursor: pointer;
-    background: #00bfff;
+  /*  background: #00bfff; */
+     background: #166534;   /* dark green */
     color: #fff;
     transition: 0.3s;
 }
@@ -94,4 +100,5 @@ button:hover {
     font-size: 25px;
     cursor: pointer;
 }
+
 
